@@ -1,8 +1,11 @@
 # Cordova-Framework
 Cordova Framework for iOS and macOS
 
-Based on the original CordovaLib 5.x.x-dev (https://github.com/apache/cordova-ios)
+Based on the original CordovaLib 5.x.x-dev (https://github.com/apache/cordova-ios).
 
+Cordova based applications are, at the core, applications written with web technology: HTML, CSS and JavaScript.
+
+Apache Cordova is a project of The Apache Software Foundation (ASF).
 
 
 <br /><br />
@@ -14,7 +17,7 @@ Based on the original CordovaLib 5.x.x-dev (https://github.com/apache/cordova-io
 
 #### Requirements
 * macOS 10.13 (High Sierra) or higher
-* Xcode 10.1.x or higher
+* Xcode 10.1.x or higher (Download it at http://developer.apple.com/downloads or the Mac App Store)
 * iOS-SDK 12.x or higher (Build Target 10.x or higher)
 * macOS-SDK 10.10 or higher (Build Target 10.10.x or higher)
 
