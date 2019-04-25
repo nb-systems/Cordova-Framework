@@ -1,7 +1,7 @@
 # Cordova-Framework
 Cordova Framework for iOS and macOS
 
-Based on the original CordovaLib 5.x.x-dev (<a href="https://github.com/apache/cordova-ios" target="_blank">Github Cordova iOS</a>). Cordova based applications are, at the core, applications written with web technology: HTML, CSS and JavaScript.
+Based on the original CordovaLib 5.x.x-dev (<a href="https://github.com/apache/cordova-ios" target="_blank">GitHub Cordova iOS</a>). Cordova based applications are, at the core, applications written with web technology: HTML, CSS and JavaScript.
 
 <a href="https://cordova.apache.org/" target="_blank">Apache Cordova</a> is a project of <a href="https://apache.org/" target="_blank">The Apache Software Foundation (ASF)</a>.
 
@@ -24,9 +24,9 @@ Based on the original CordovaLib 5.x.x-dev (<a href="https://github.com/apache/c
 You have the opportunity to install this repository in two different ways.
 
 - __Download__
-  - Download the actually branch of the GitHub project and unpack the .ZIP file to your system (or Folder you want).
+  - Download the actually branch of the GitHub project and unpack the .ZIP file to your system (or Folder).
 
 OR
 
 - __Clone__
-  - Clone this GitHub Repository to your Xcode Workspace or open the Xcode Project.
+  - Clone this GitHub repository to your Xcode workspace or open the Xcode project.
