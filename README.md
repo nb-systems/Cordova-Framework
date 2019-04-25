@@ -5,8 +5,7 @@ Based on the original CordovaLib 5.x.x-dev (https://github.com/apache/cordova-io
 
 Apache Cordova is a project of The Apache Software Foundation (ASF).
 
-
-<br /><br />
+<br />
 
 ##
 ### Getting Started
@@ -19,7 +18,7 @@ Apache Cordova is a project of The Apache Software Foundation (ASF).
 * iOS-SDK 12.x or higher (Build Target 10.x or higher)
 * macOS-SDK 10.10 or higher (Build Target 10.10.x or higher)
 
-<br /><br />
+<br />
 
 #### Installing
 You have the opportunity to install this repository in two different ways.
