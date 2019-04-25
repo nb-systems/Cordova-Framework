@@ -24,7 +24,7 @@ Apache Cordova is a project of The Apache Software Foundation (ASF).
 You have the opportunity to install this repository in two different ways.
 
 - __Download__
-  - Download the actually branch of the GitHub project and unpack the .ZIP file to your system (or Folder you want)
+  - Download the actually branch of the GitHub project and unpack the .ZIP file to your system (or Folder you want).
 
 OR
 
