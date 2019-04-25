@@ -29,4 +29,4 @@ You have the opportunity to install this repository in two different ways.
 OR
 
 - __Clone__
-  - Clone this GitHub Repository to your Xcode Workspace or open the Xcode Project
+  - Clone this GitHub Repository to your Xcode Workspace or open the Xcode Project.
