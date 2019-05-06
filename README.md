@@ -1,5 +1,5 @@
 # Cordova-Framework
-Cordova Framework for iOS and macOS
+Cordova Framework for iOS and macOS (Written in Objective-C)
 
 Based on the original CordovaLib 5.x.x-dev (<a href="https://github.com/apache/cordova-ios" target="_blank">GitHub Cordova iOS</a>). Cordova based applications are, at the core, applications written with web technology: HTML, CSS and JavaScript.
 
