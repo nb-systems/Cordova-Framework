@@ -20,9 +20,21 @@
 #import <Foundation/Foundation.h>
 #import "CDVViewController.h"
 
+#if TARGET_OS_IPHONE
 @interface CDVAppDelegate : NSObject <UIApplicationDelegate>{}
 
 @property (nonatomic, strong) IBOutlet UIWindow* window;
 @property (nonatomic, strong) IBOutlet CDVViewController* viewController;
 
 @end
+
+
+
+#elif TARGET_OS_MAC
+@interface AppDelegate : NSObject <NSApplicationDelegate>{}
+
+@property (nonatomic, strong) IBOutlet UIWindow* window;
+@property (nonatomic, strong) IBOutlet CDVViewController* viewController;
+
+@end
+#endif
