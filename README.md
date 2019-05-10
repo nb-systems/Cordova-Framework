@@ -55,3 +55,5 @@ Please refer to each project's style and contribution guidelines for submitting 
 5. Submit a Pull request so that we can review your changes
 
 NOTE: Be sure to merge the latest from "upstream" before making a pull request!
+
+For more information about contributing in this project, please read our contributing guidline.
