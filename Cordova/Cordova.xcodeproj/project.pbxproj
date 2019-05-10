@@ -7,6 +7,24 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		722AF8922285D8B4006F4CFE /* CDVScreenOrientationDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = 722AF8912285D8B4006F4CFE /* CDVScreenOrientationDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		722AF8932285D907006F4CFE /* CDVScreenOrientationDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = 722AF8912285D8B4006F4CFE /* CDVScreenOrientationDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		722AF8962285D94A006F4CFE /* CDVUserAgentUtil.h in Headers */ = {isa = PBXBuildFile; fileRef = 722AF8942285D949006F4CFE /* CDVUserAgentUtil.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		722AF8972285D94A006F4CFE /* CDVUserAgentUtil.h in Headers */ = {isa = PBXBuildFile; fileRef = 722AF8942285D949006F4CFE /* CDVUserAgentUtil.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		722AF8982285D94A006F4CFE /* CDVUserAgentUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 722AF8952285D94A006F4CFE /* CDVUserAgentUtil.m */; };
+		722AF8992285D94A006F4CFE /* CDVUserAgentUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 722AF8952285D94A006F4CFE /* CDVUserAgentUtil.m */; };
+		722AF89C2285DA1F006F4CFE /* CDVURLProtocol.h in Headers */ = {isa = PBXBuildFile; fileRef = 722AF89A2285DA1E006F4CFE /* CDVURLProtocol.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		722AF89D2285DA1F006F4CFE /* CDVURLProtocol.h in Headers */ = {isa = PBXBuildFile; fileRef = 722AF89A2285DA1E006F4CFE /* CDVURLProtocol.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		722AF89E2285DA1F006F4CFE /* CDVURLProtocol.m in Sources */ = {isa = PBXBuildFile; fileRef = 722AF89B2285DA1F006F4CFE /* CDVURLProtocol.m */; };
+		722AF89F2285DA1F006F4CFE /* CDVURLProtocol.m in Sources */ = {isa = PBXBuildFile; fileRef = 722AF89B2285DA1F006F4CFE /* CDVURLProtocol.m */; };
+		722AF8A22285DB7A006F4CFE /* CDVTimer.h in Headers */ = {isa = PBXBuildFile; fileRef = 722AF8A02285DB7A006F4CFE /* CDVTimer.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		722AF8A32285DB7A006F4CFE /* CDVTimer.h in Headers */ = {isa = PBXBuildFile; fileRef = 722AF8A02285DB7A006F4CFE /* CDVTimer.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		722AF8A42285DB7A006F4CFE /* CDVTimer.m in Sources */ = {isa = PBXBuildFile; fileRef = 722AF8A12285DB7A006F4CFE /* CDVTimer.m */; };
+		722AF8A52285DB7A006F4CFE /* CDVTimer.m in Sources */ = {isa = PBXBuildFile; fileRef = 722AF8A12285DB7A006F4CFE /* CDVTimer.m */; };
+		722AF8A82285DBDF006F4CFE /* CDVConfigParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 722AF8A62285DBDE006F4CFE /* CDVConfigParser.m */; };
+		722AF8A92285DBDF006F4CFE /* CDVConfigParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 722AF8A62285DBDE006F4CFE /* CDVConfigParser.m */; };
+		722AF8AA2285DBDF006F4CFE /* CDVConfigParser.h in Headers */ = {isa = PBXBuildFile; fileRef = 722AF8A72285DBDF006F4CFE /* CDVConfigParser.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		722AF8AB2285DBDF006F4CFE /* CDVConfigParser.h in Headers */ = {isa = PBXBuildFile; fileRef = 722AF8A72285DBDF006F4CFE /* CDVConfigParser.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		726E1A7D2280AEDA0010CEC5 /* CDVWhitelist.h in Headers */ = {isa = PBXBuildFile; fileRef = 726E1A7B2280AEDA0010CEC5 /* CDVWhitelist.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		726E1A7E2280AEDA0010CEC5 /* CDVWhitelist.h in Headers */ = {isa = PBXBuildFile; fileRef = 726E1A7B2280AEDA0010CEC5 /* CDVWhitelist.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		726E1A7F2280AEDA0010CEC5 /* CDVWhitelist.m in Sources */ = {isa = PBXBuildFile; fileRef = 726E1A7C2280AEDA0010CEC5 /* CDVWhitelist.m */; };
@@ -110,6 +128,15 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		722AF8912285D8B4006F4CFE /* CDVScreenOrientationDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CDVScreenOrientationDelegate.h; sourceTree = "<group>"; };
+		722AF8942285D949006F4CFE /* CDVUserAgentUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CDVUserAgentUtil.h; sourceTree = "<group>"; };
+		722AF8952285D94A006F4CFE /* CDVUserAgentUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CDVUserAgentUtil.m; sourceTree = "<group>"; };
+		722AF89A2285DA1E006F4CFE /* CDVURLProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CDVURLProtocol.h; sourceTree = "<group>"; };
+		722AF89B2285DA1F006F4CFE /* CDVURLProtocol.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CDVURLProtocol.m; sourceTree = "<group>"; };
+		722AF8A02285DB7A006F4CFE /* CDVTimer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CDVTimer.h; sourceTree = "<group>"; };
+		722AF8A12285DB7A006F4CFE /* CDVTimer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CDVTimer.m; sourceTree = "<group>"; };
+		722AF8A62285DBDE006F4CFE /* CDVConfigParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CDVConfigParser.m; sourceTree = "<group>"; };
+		722AF8A72285DBDF006F4CFE /* CDVConfigParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CDVConfigParser.h; sourceTree = "<group>"; };
 		726E1A7B2280AEDA0010CEC5 /* CDVWhitelist.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CDVWhitelist.h; sourceTree = "<group>"; };
 		726E1A7C2280AEDA0010CEC5 /* CDVWhitelist.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CDVWhitelist.m; sourceTree = "<group>"; };
 		726E1A812280B0560010CEC5 /* NSMutableArray+QueueAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSMutableArray+QueueAdditions.h"; sourceTree = "<group>"; };
@@ -212,6 +239,8 @@
 				72ED23732280C724007381EE /* CDVCommandDelegateImpl.m */,
 				72ED237A2280C81F007381EE /* CDVCommandQueue.h */,
 				72ED237B2280C81F007381EE /* CDVCommandQueue.m */,
+				722AF8A72285DBDF006F4CFE /* CDVConfigParser.h */,
+				722AF8A62285DBDE006F4CFE /* CDVConfigParser.m */,
 				72ED23802280D65C007381EE /* CDVInvokedUrlCommand.h */,
 				72ED23812280D65D007381EE /* CDVInvokedUrlCommand.m */,
 				72ED23CA2280DEA8007381EE /* CDVPlugin.h */,
@@ -220,6 +249,13 @@
 				72ED23D12280DF3A007381EE /* CDVPlugin+Resources.m */,
 				72ED23D62280DFB2007381EE /* CDVPluginResult.h */,
 				72ED23D72280DFB2007381EE /* CDVPluginResult.m */,
+				722AF8912285D8B4006F4CFE /* CDVScreenOrientationDelegate.h */,
+				722AF8A02285DB7A006F4CFE /* CDVTimer.h */,
+				722AF8A12285DB7A006F4CFE /* CDVTimer.m */,
+				722AF89A2285DA1E006F4CFE /* CDVURLProtocol.h */,
+				722AF89B2285DA1F006F4CFE /* CDVURLProtocol.m */,
+				722AF8942285D949006F4CFE /* CDVUserAgentUtil.h */,
+				722AF8952285D94A006F4CFE /* CDVUserAgentUtil.m */,
 				72ED23512280B4BE007381EE /* CDVViewController.h */,
 				72ED23502280B4BD007381EE /* CDVViewController.m */,
 				726E1A8D2280B0ED0010CEC5 /* CDVWebViewEngineProtocol.h */,
@@ -377,10 +413,15 @@
 				72ED23742280C724007381EE /* CDVCommandDelegate.h in Headers */,
 				72ED23762280C724007381EE /* CDVCommandDelegateImpl.h in Headers */,
 				72ED237C2280C81F007381EE /* CDVCommandQueue.h in Headers */,
+				722AF8AA2285DBDF006F4CFE /* CDVConfigParser.h in Headers */,
 				72ED23822280D65D007381EE /* CDVInvokedUrlCommand.h in Headers */,
 				72ED23CC2280DEA8007381EE /* CDVPlugin.h in Headers */,
 				72ED23D22280DF3A007381EE /* CDVPlugin+Resources.h in Headers */,
 				72ED23D82280DFB3007381EE /* CDVPluginResult.h in Headers */,
+				722AF8922285D8B4006F4CFE /* CDVScreenOrientationDelegate.h in Headers */,
+				722AF8A22285DB7A006F4CFE /* CDVTimer.h in Headers */,
+				722AF89C2285DA1F006F4CFE /* CDVURLProtocol.h in Headers */,
+				722AF8962285D94A006F4CFE /* CDVUserAgentUtil.h in Headers */,
 				72ED23542280B4BE007381EE /* CDVViewController.h in Headers */,
 				72ED238E2280D726007381EE /* CDVDebug.h in Headers */,
 				726E1A8E2280B0ED0010CEC5 /* CDVWebViewEngineProtocol.h in Headers */,
@@ -412,10 +453,15 @@
 				72ED23752280C724007381EE /* CDVCommandDelegate.h in Headers */,
 				72ED23772280C724007381EE /* CDVCommandDelegateImpl.h in Headers */,
 				72ED237D2280C81F007381EE /* CDVCommandQueue.h in Headers */,
+				722AF8AB2285DBDF006F4CFE /* CDVConfigParser.h in Headers */,
 				72ED23832280D65D007381EE /* CDVInvokedUrlCommand.h in Headers */,
 				72ED23CD2280DEA8007381EE /* CDVPlugin.h in Headers */,
 				72ED23D32280DF3A007381EE /* CDVPlugin+Resources.h in Headers */,
 				72ED23D92280DFB3007381EE /* CDVPluginResult.h in Headers */,
+				722AF8932285D907006F4CFE /* CDVScreenOrientationDelegate.h in Headers */,
+				722AF8A32285DB7A006F4CFE /* CDVTimer.h in Headers */,
+				722AF89D2285DA1F006F4CFE /* CDVURLProtocol.h in Headers */,
+				722AF8972285D94A006F4CFE /* CDVUserAgentUtil.h in Headers */,
 				72ED23552280B4BE007381EE /* CDVViewController.h in Headers */,
 				726E1A8F2280B0ED0010CEC5 /* CDVWebViewEngineProtocol.h in Headers */,
 				72ED238F2280D726007381EE /* CDVDebug.h in Headers */,
@@ -535,13 +581,17 @@
 				72ED23782280C724007381EE /* CDVCommandDelegateImpl.m in Sources */,
 				72ED237E2280C81F007381EE /* CDVCommandQueue.m in Sources */,
 				72ED23C62280DE23007381EE /* CDVGestureHandler.m in Sources */,
+				722AF8A82285DBDF006F4CFE /* CDVConfigParser.m in Sources */,
 				72ED23C22280DE01007381EE /* CDVHandleOpenURL.m in Sources */,
 				72ED23BA2280DD6A007381EE /* CDVIntentAndNavigationFilter.m in Sources */,
 				72ED23842280D65D007381EE /* CDVInvokedUrlCommand.m in Sources */,
+				722AF8A42285DB7A006F4CFE /* CDVTimer.m in Sources */,
 				72ED23882280D6E1007381EE /* CDVJSON_private.m in Sources */,
 				72ED23B42280DC3B007381EE /* CDVLocalStorage.m in Sources */,
 				72ED23AE2280DBFA007381EE /* CDVLogger.m in Sources */,
 				72ED23CE2280DEA8007381EE /* CDVPlugin.m in Sources */,
+				722AF89E2285DA1F006F4CFE /* CDVURLProtocol.m in Sources */,
+				722AF8982285D94A006F4CFE /* CDVUserAgentUtil.m in Sources */,
 				72ED23D42280DF3A007381EE /* CDVPlugin+Resources.m in Sources */,
 				72ED23DA2280DFB3007381EE /* CDVPluginResult.m in Sources */,
 				72ED23A82280DA54007381EE /* CDVUIWebViewDelegate.m in Sources */,
@@ -562,13 +612,17 @@
 				72ED23792280C724007381EE /* CDVCommandDelegateImpl.m in Sources */,
 				72ED237F2280C81F007381EE /* CDVCommandQueue.m in Sources */,
 				72ED23C72280DE23007381EE /* CDVGestureHandler.m in Sources */,
+				722AF8A92285DBDF006F4CFE /* CDVConfigParser.m in Sources */,
 				72ED23C32280DE01007381EE /* CDVHandleOpenURL.m in Sources */,
 				72ED23BB2280DD6A007381EE /* CDVIntentAndNavigationFilter.m in Sources */,
 				72ED23852280D65D007381EE /* CDVInvokedUrlCommand.m in Sources */,
+				722AF8A52285DB7A006F4CFE /* CDVTimer.m in Sources */,
 				72ED23892280D6E1007381EE /* CDVJSON_private.m in Sources */,
 				72ED23AF2280DBFA007381EE /* CDVLogger.m in Sources */,
 				72ED23B52280DC3B007381EE /* CDVLocalStorage.m in Sources */,
 				72ED23CF2280DEA8007381EE /* CDVPlugin.m in Sources */,
+				722AF89F2285DA1F006F4CFE /* CDVURLProtocol.m in Sources */,
+				722AF8992285D94A006F4CFE /* CDVUserAgentUtil.m in Sources */,
 				72ED23D52280DF3A007381EE /* CDVPlugin+Resources.m in Sources */,
 				72ED23DB2280DFB3007381EE /* CDVPluginResult.m in Sources */,
 				72ED23A92280DA54007381EE /* CDVUIWebViewDelegate.m in Sources */,
