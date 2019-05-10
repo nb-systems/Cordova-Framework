@@ -46,14 +46,4 @@ Feel free to submit issues, enhancement or feature requests on our project issue
 ##
 ### Contributing
 ##
-Please refer to each project's style and contribution guidelines for submitting patches and additions. In general, we follow the "Fork-And-Pull" Git workflow.
-
-1. Fork the repo on GitHub
-2. Clone the project to your own machine
-3. Commit changes to your own branch
-4. Push your work back up to your fork
-5. Submit a Pull request so that we can review your changes
-
-NOTE: Be sure to merge the latest from "upstream" before making a pull request!
-
-For more information about contributing in this project, please read our contributing guidline.
+Information about contributing on this project, please read our contributing guidline (CONTRIBUTING.md).
