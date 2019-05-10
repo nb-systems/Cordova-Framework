@@ -313,10 +313,10 @@
 		72D53A442280ABBC0085511F /* Cordova */ = {
 			isa = PBXGroup;
 			children = (
-				72DA3BF22286028F00E45D00 /* Localisation */,
 				726E1A772280AE330010CEC5 /* Classes */,
 				72D53A452280ABBC0085511F /* Cordova.h */,
 				72D53A462280ABBC0085511F /* Info.plist */,
+				72DA3BF22286028F00E45D00 /* Localisation */,
 			);
 			path = Cordova;
 			sourceTree = "<group>";
