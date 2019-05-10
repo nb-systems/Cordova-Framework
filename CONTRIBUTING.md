@@ -2,7 +2,7 @@
 Whether you're trying to give back to the open source community or collaborating on your own projects, knowing how to properly fork and generate pull requests is essential.
 Most commonly, forks are used to either propose changes to someone else's project or to use someone else's project as a starting point for your own idea.
 
-A great example of using forks to propose changes is for bug fixes. Rather than logging an issue for a bug you've found, you can:
+This is a great example of using forks to propose changes is for bug fixes. Rather than logging an issue for a bug you've found, you can:
 
 - Fork the repository.
 - Make the fix.
