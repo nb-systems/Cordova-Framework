@@ -33,3 +33,25 @@ OR
 
 - __Clone__
   - Clone this GitHub repository to your Xcode workspace or open the Xcode project.
+
+<br />
+
+##
+### Issues
+##
+Feel free to submit issues, enhancement or feature requests on our project issues page (https://github.com/nb-systems/Cordova-Framework/issues). Please fill out our request templates to verify bugs, enhancement or other issues.
+
+<br />
+
+##
+### Contributing
+##
+Please refer to each project's style and contribution guidelines for submitting patches and additions. In general, we follow the "Fork-And-Pull" Git workflow.
+
+1. Fork the repo on GitHub
+2. Clone the project to your own machine
+3. Commit changes to your own branch
+4. Push your work back up to your fork
+5. Submit a Pull request so that we can review your changes
+
+NOTE: Be sure to merge the latest from "upstream" before making a pull request!
