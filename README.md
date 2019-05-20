@@ -18,8 +18,8 @@ Based on the original CordovaLib 5.x.x-dev (<a href="https://github.com/apache/c
 #### Requirements
 * macOS 10.13 (High Sierra) or higher
 * Xcode 10.1.x or higher (Download it at <a href="https://developer.apple.com/downloads" title="Xcode Download" target="_blank">Apple Developer</a> or the <a href="https://itunes.apple.com/app/xcode/id497799835?mt=12" title="Download Xcode from the AppStore" target="_blank">Mac App Store</a>)
-* iOS-SDK 12.x or higher (Build Target 10.x or higher)
-* macOS-SDK 10.10 or higher (Build Target 10.10.x or higher)
+* iOS-SDK 12.x or higher (Build Target 10.x strictly required)
+* macOS-SDK 10.10 or higher (Build Target 10.10.x strictly required)
 
 <br />
 
