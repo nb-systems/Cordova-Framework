@@ -38,7 +38,7 @@
         _callbackIdPattern = [NSRegularExpression regularExpressionWithPattern:@"[^A-Za-z0-9._-]" options:0 error:&err];
         if (err != nil) {
             // Couldn't initialize Regex
-            NSLog(@"Error: Couldn't initialize regex");
+            NSLog(NSLocalizedStringFromTable(@"900.1001", @"localized", nil));
             _callbackIdPattern = nil;
         }
     }
