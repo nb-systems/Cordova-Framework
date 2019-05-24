@@ -46,4 +46,6 @@ Feel free to submit issues, enhancement or feature requests on our project issue
 ##
 ### Contributing
 ##
-Information about contributing on this project, please read our contributing guidline (<a href="CONTRIBUTING.md" title="Contributing">CONTRIBUTING.md</a>).
+Best practice in contributing this project is to fork them. Please make sure your Pull Request goes to the developer-branch of this project, so we can check you request and push it to the master-branch.
+
+For more information about contributing on this project, please read our contributing guidline (<a href="CONTRIBUTING.md" title="Contributing">CONTRIBUTING.md</a>).
