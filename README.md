@@ -27,7 +27,7 @@ Based on the original CordovaLib 5.x.x-dev (<a href="https://github.com/apache/c
 You have the opportunity to install this repository in three different ways.
 
 - __Download__
-  - Download the actually branch of the GitHub repository and unpack the .ZIP file to your system (or any folder you want). In this case you are not be able to refresh the repository and send push or pull request to the repository.
+  - Download the actually branch of the GitHub repository and unpack the .ZIP file to your system (or any folder you want). In this case you are not be able to fetch, refresh the repository or send push or pull request to the repository.
 
 OR
 
