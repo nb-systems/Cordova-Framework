@@ -32,7 +32,7 @@ You have the opportunity to install this repository in three different ways.
 OR
 
 - __Clone__
-  - Clone this GitHub repository to your Xcode workspace or open the Xcode project that comes within the repository. When you clone the repository, push or pull requests are rejected by the repository owner.
+  - Clone this GitHub repository to your Xcode workspace or open the Xcode project that comes within the repository. When you clone the repository, push or pull requests are rejected by the repository owner, as long as you do not use the <a href="https://github.com/nb-systems/Cordova-Framework/tree/developer" title="developer-branch">`developer-branch`</a>.
 
 OR
 
