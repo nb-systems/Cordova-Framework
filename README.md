@@ -46,6 +46,6 @@ Feel free to submit issues, enhancement or feature requests on our project issue
 ##
 ### Contributing
 ##
-Best practice in contributing this project is to fork them. Please make sure your Pull Request goes to the developer-branch of this project, so we can check you request and push it to the master-branch.
+Best practice in contributing this project is to fork them. Please make sure your Pull Request goes to the <a href="https://github.com/nb-systems/Cordova-Framework/tree/developer" title="developer-branch">`developer-branch`</a> of this project, so we can check you request and push it to the <a href="https://github.com/nb-systems/Cordova-Framework/tree/master" title="master-branch">`master-branch`</a>.
 
 For more information about contributing on this project, please read our contributing guidline (<a href="CONTRIBUTING.md" title="Contributing">CONTRIBUTING.md</a>).
