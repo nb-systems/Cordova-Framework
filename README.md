@@ -37,7 +37,8 @@ OR
 OR
 
 - __Fork__
-  - Fork our GitHub repository. This creates an fork, where you can send pull and/or push request from your repository to our repository. Please make sure that the pull and / or push request are made to the <a href="https://github.com/nb-systems/Cordova-Framework/tree/developer" title="developer-branch">`developer-branch`</a> of this repository. Otherwise all push and / or pull request will be rejected.
+  - <i>Fork</i> our GitHub repository. This creates an fork, where you can send pull and/or push request from your repository to our repository. Please make sure that the pull and / or push request are made to the <a href="https://github.com/nb-systems/Cordova-Framework/tree/developer" title="developer-branch">`developer-branch`</a> of this repository. Otherwise all push and / or pull request will be rejected.<br />
+More information about <i>forks</i> you can read <a href="https://help.github.com/en/articles/fork-a-repo" title="Read more...">here...</a>
 
 <br />
 
@@ -51,6 +52,6 @@ Feel free to submit issues, enhancement or feature requests on our project issue
 ##
 ### Contributing
 ##
-Best practice in contributing this project is to fork them. Please make sure your push and / or pull request are send to the <a href="https://github.com/nb-systems/Cordova-Framework/tree/developer" title="developer-branch">`developer-branch`</a> of this project, so we can check you request and push it to the <a href="https://github.com/nb-systems/Cordova-Framework/tree/master" title="master-branch">`master-branch`</a>.
+Best practice in contributing this project is to <i>fork</i> them. Please make sure your push and / or pull request are send to the <a href="https://github.com/nb-systems/Cordova-Framework/tree/developer" title="developer-branch">`developer-branch`</a> of this project, so we can check you request and push it to the <a href="https://github.com/nb-systems/Cordova-Framework/tree/master" title="master-branch">`master-branch`</a>. A <i>fork</i> is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project. More information about <i>forks</i> you can read <a href="https://help.github.com/en/articles/fork-a-repo" title="Read more...">here...</a>
 
 For more information about contributing on this project, please read our contributing guidline (<a href="CONTRIBUTING.md" title="Contributing">`CONTRIBUTING.md`</a>).
