@@ -24,15 +24,20 @@ Based on the original CordovaLib 5.x.x-dev (<a href="https://github.com/apache/c
 <br />
 
 #### Installing
-You have the opportunity to install this repository in two different ways.
+You have the opportunity to install this repository in three different ways.
 
 - __Download__
-  - Download the actually branch of the GitHub project and unpack the .ZIP file to your system (or any Folder).
+  - Download the actually branch of the GitHub project and unpack the .ZIP file to your system (or any Folder you want). In this case you are not be able to refresh the repository and send push or pull request to the repository.
 
 OR
 
 - __Clone__
-  - Clone this GitHub repository to your Xcode workspace or open the Xcode project.
+  - Clone this GitHub repository to your Xcode workspace or open the Xcode project that comes within the repository. When you clone the repository, push or pull requests are rejected by the repository owner.
+
+OR
+
+- __Fork__
+  - Fork our GitHub repository. This creates an fork, where you can send pull and/or push request to our repository. Please make sure that the pull and/or push request are made to the <a href="https://github.com/nb-systems/Cordova-Framework/tree/developer" title="developer-branch">`developer-branch`</a> of this repository. Otherwise all push and / or pull request will be rejected.
 
 <br />
 
@@ -46,6 +51,6 @@ Feel free to submit issues, enhancement or feature requests on our project issue
 ##
 ### Contributing
 ##
-Best practice in contributing this project is to fork them. Please make sure your Pull Request goes to the <a href="https://github.com/nb-systems/Cordova-Framework/tree/developer" title="developer-branch">`developer-branch`</a> of this project, so we can check you request and push it to the <a href="https://github.com/nb-systems/Cordova-Framework/tree/master" title="master-branch">`master-branch`</a>.
+Best practice in contributing this project is to fork them. Please make sure your push and / or pull request are send to the <a href="https://github.com/nb-systems/Cordova-Framework/tree/developer" title="developer-branch">`developer-branch`</a> of this project, so we can check you request and push it to the <a href="https://github.com/nb-systems/Cordova-Framework/tree/master" title="master-branch">`master-branch`</a>.
 
 For more information about contributing on this project, please read our contributing guidline (<a href="CONTRIBUTING.md" title="Contributing">`CONTRIBUTING.md`</a>).
