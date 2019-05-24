@@ -27,7 +27,7 @@ Based on the original CordovaLib 5.x.x-dev (<a href="https://github.com/apache/c
 You have the opportunity to install this repository in three different ways.
 
 - __Download__
-  - Download the actually branch of the GitHub project and unpack the .ZIP file to your system (or any Folder you want). In this case you are not be able to refresh the repository and send push or pull request to the repository.
+  - Download the actually branch of the GitHub repository and unpack the .ZIP file to your system (or any folder you want). In this case you are not be able to refresh the repository and send push or pull request to the repository.
 
 OR
 
@@ -37,7 +37,7 @@ OR
 OR
 
 - __Fork__
-  - Fork our GitHub repository. This creates an fork, where you can send pull and/or push request to our repository. Please make sure that the pull and/or push request are made to the <a href="https://github.com/nb-systems/Cordova-Framework/tree/developer" title="developer-branch">`developer-branch`</a> of this repository. Otherwise all push and / or pull request will be rejected.
+  - Fork our GitHub repository. This creates an fork, where you can send pull and/or push request from your repository to our repository. Please make sure that the pull and / or push request are made to the <a href="https://github.com/nb-systems/Cordova-Framework/tree/developer" title="developer-branch">`developer-branch`</a> of this repository. Otherwise all push and / or pull request will be rejected.
 
 <br />
 
